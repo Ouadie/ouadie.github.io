@@ -36,7 +36,9 @@ social_media:
   twitter: ouadieboussaid
   # youtube: your_username
 
-topics:
+interests:
+  limit: 6
+  topics:
   - name: React-Native
     web_url: https://github.com/topics/react-native
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react-native/react-native.png
@@ -76,3 +78,4 @@ topics:
   - name: Sketch
     web_url: https://github.com/topics/sketch
     image_url: https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png
+
