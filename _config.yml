@@ -37,7 +37,7 @@ social_media:
   # youtube: your_username
 
 interests:
-  limit: 6
+  limit: 12
   topics:
   - name: React-Native
     web_url: https://github.com/topics/react-native
@@ -62,11 +62,7 @@ interests:
   - name: Laravel
     web_url: https://github.com/topics/laravel
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/laravel/laravel.png
-  
-  - name: npm
-    web_url: https://github.com/topics/npm
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
-  
+   
   - name: Git
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
